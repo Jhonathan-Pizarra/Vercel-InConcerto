@@ -188,7 +188,7 @@ Disponible en [YouTube](https://www.youtube.com/watch?v=EQHqZdkye-o)
   <div> Inconcerto/ESFOT-EPN</div>
   <p align="center"> 
   <img alt="Tools" src="https://www.herokucdn.com/deploy/button.svg" width="100" />
-  <img alt="Tools" src="https://raw.githubusercontent.com/nextauthjs/next-auth/canary/www/static/img/powered-by-vercel.svg" width="110" /> 
+  <img alt="Tools" src="https://raw.githubusercontent.com/Jhonathan-Pizarra/Dilinger-README/main/images/vercel.png" width="110" /> 
   </p>
 </p>
   <p align="center"> Hecho con ❤ por Jhonathan Pizarra!</p>
