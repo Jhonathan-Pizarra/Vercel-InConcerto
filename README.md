@@ -187,8 +187,8 @@ Disponible en [YouTube](https://www.youtube.com/watch?v=EQHqZdkye-o)
 <p align="center"> 
   <div> Inconcerto/ESFOT-EPN</div>
   <p align="center"> 
-  <img alt="Tools" src="https://www.herokucdn.com/deploy/button.svg" width="100" />
-  <img alt="Tools" src="https://raw.githubusercontent.com/Jhonathan-Pizarra/Dilinger-README/main/images/vercel.png" width="70" /> 
+    <img alt="Tools" src="https://www.herokucdn.com/deploy/button.svg" width="100" />
+    <img alt="Tools" src="https://raw.githubusercontent.com/Jhonathan-Pizarra/Dilinger-README/main/images/railway.png" width="110" height="21" />
   </p>
 </p>
   <p align="center"> Hecho con ❤ por Jhonathan Pizarra!</p>
